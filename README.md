@@ -1,6 +1,6 @@
   **Hi 👋, Here is Hany Hosny...**
 
-- 🌟 **New frontend developer eager to collaborate on exciting projects.**
+- 🌟 **Frontend Developer eager to collaborate on exciting projects.**
 - 📜 **Proficient in HTML, CSS, and JavaScript.**
 - 💡 **Skilled in TypeScript for enhanced development.**
 - 🚀 **Intimate understanding with Angular framework for building dynamic web applications.**
