@@ -1,5 +1,5 @@
   **Hi 👋, Here is Hany Hosny...**
-
+<hr>
 - 🌟 **Frontend Developer eager to collaborate on exciting projects.**
 - 📜 **Proficient in HTML, CSS, and JavaScript.**
 - 💡 **Skilled in TypeScript for enhanced development.**
