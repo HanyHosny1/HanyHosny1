@@ -2,12 +2,13 @@
 
   <hr>
 
-- 🌟 **Frontend Developer eager to collaborate on exciting projects.**
+- 🌟 **Frontend & Mobile App Developer eager to collaborate on exciting projects.**
 - 📜 **Proficient in HTML, CSS, and JavaScript.**
 - 💡 **Skilled in TypeScript for enhanced development.**
-- 🚀 **Intimate understanding with Angular framework for building dynamic web applications.**
-- 🌱 **I’m currently learning Mobile App Development, Flutter / Dart.**
-- 💻 **Passionate about creating user-friendly and visually appealing web interfaces.**
+- 🚀 **Extensive experience with Angular framework for building dynamic web applications.**
+- 📱 **Developing cross-platform Mobile Applications using Flutter & Dart.**
+- 🤖 **Currently learning Agentic AI Automation to integrate intelligent workflows.**
+- 💻 **Passionate about creating user-friendly, high-performing, and visually appealing digital experiences.**
 - 📬 **Reach out to me at: hanyanwar1811@gmail.com.**
 
 <hr>
@@ -20,10 +21,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="80" height="20">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="80" height="20">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" width="80" height="20">
-
-### Currently Learning:
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" width="80" height="20">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" width="80" height="20">
+
+### Currently Learning:
+<img src="https://img.shields.io/badge/Agentic%20AI%20Automation-8A2BE2?style=flat-square&logo=robot&logoColor=white" width="180" height="20">
+
 
 <!--
 **HanyHosny1/HanyHosny1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
